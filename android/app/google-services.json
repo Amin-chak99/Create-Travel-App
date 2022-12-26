@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270436013421",
+    "firebase_url": "https://voyage-16bd4-default-rtdb.firebaseio.com",
+    "project_id": "voyage-16bd4",
+    "storage_bucket": "voyage-16bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270436013421:android:be6cf11fda9dc5c155b664",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270436013421-hdqeeg2fk0re9qp710npdr2taa2fl6am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCADUJpwE8KfRczvc8i34B1z8cMfxzF9hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270436013421-hdqeeg2fk0re9qp710npdr2taa2fl6am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270436013421-75bogoag9jpaish6hip9qvd7rdrddiuk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voyage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
